@@ -1,6 +1,6 @@
 const main = () => {
 	console.log( "hello world")
-	console.log( "third commit")
+	console.log( "merge")
 
 }
 
