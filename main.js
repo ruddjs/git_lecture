@@ -1,6 +1,5 @@
 const main = () => {
-	console.log( "hello world")
-	console.log( "merge")
+	console.log( "pull event")
 
 }
 
