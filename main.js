@@ -1,5 +1,5 @@
 const main = () => {
-	console.log( "pull event")
+	console.log( "git gui commit")
 
 }
 
